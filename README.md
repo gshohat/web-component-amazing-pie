@@ -7,7 +7,7 @@ Compatible with React, Vue, Angular & other frameworks.
 Add your title with a slot element.
 Customizable slice size, color & description. 
 
-![amazing-pie](https://github.com/gshohat/web-component-amazing-pie/assets/91323932/61a624bb-73bc-47f9-bbe7-867d7b7b29eb)
+![amazing-pie](https://github.com/gshohat/web-component-amazing-pie/assets/91323932/ca32409a-fe0d-4a50-acbb-adb7ec70f196)
 
 ## Vue usage
 
